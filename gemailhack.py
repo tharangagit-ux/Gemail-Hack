@@ -5,7 +5,7 @@ import smtplib
 from os import system
 
 def main():
-   print '================================================='
+  
    print '               create by Ha3MrX                  '
    print '================================================='
    print '               ++++++++++++++++++++              '
